@@ -22,7 +22,7 @@ else{
     return "Depends on how quick Superman can get rid of the Kryptonite. "+ enemyname +" could possibly win this one.";
 }
     }
-
+   
 for (var i=0;i<enemies.length;i++)
 {
     var is_there_kryptonite;
