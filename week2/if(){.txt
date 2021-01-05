@@ -1,0 +1,6 @@
+if(age > 10){
+    
+}
+//
+var age = 2;
+(age > 10) ? true : false;
