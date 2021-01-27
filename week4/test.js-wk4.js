@@ -22,8 +22,8 @@ function returnFirstHalf (str) {
     }
     return str;
 }
-console.log(returnFirstHalf("Hello"));
-console.log(returnFirstHalf("Hello World"));
+console.log(returnFirstHalf("Hello "));
+console.log(returnFirstHalf("Hello World "));
 
 // string#4
 
@@ -39,3 +39,5 @@ function uppercase(str)
     return newarray1.join("  ");
   }
   console.log(uppercase("i love my harley davidson"));
+  var test ="hello"
+  console.log(test.toUpperCase())
