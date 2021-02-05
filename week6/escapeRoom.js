@@ -21,7 +21,7 @@ while(isAlive == true){
     else if (menuOptions == 2 && hasKey == false){
         // 1st time player chooses option 2
         console.log(`${playerName}, Great you have found the key!`);
-        hasKey == true;
+        hasKey = true;
     }    
     else if (menuOptions ==2 && hasKey == true){
         //Subsequent entry with option 2
